@@ -23,5 +23,4 @@ Skrypt uruchomisz w terminalu:
 python <numer_zadania>.py
 ```
 
-Lekcja czwarta kursu [Python dla początkujących](https://www.flynerd.pl/tag/python-kurs)
-# python-6-instrukcje-warunkowe
+To jest część 6 kursu [Python dla początkujących](https://www.flynerd.pl/tag/python-kurs)
